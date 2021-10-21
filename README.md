@@ -1,2 +1,2 @@
 # my_studies_science_data
-Config files for my GitHub profile.
+Arquivo de configuração para apresentação de estudos Data Science
